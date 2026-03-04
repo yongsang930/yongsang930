@@ -1,17 +1,18 @@
 ## 박용상 | React · Java Web Developer (3y)
 
-Spring Boot 기반 웹 시스템 개발/운영 경험.
-React(TypeScript) 화면 개발과 API/DB 연계를 함께 다뤄 왔습니다.
+공공 SI 및 개인 프로젝트에서 React 화면 + Spring Boot API/DB 연계를 개발·운영
 
 ## Core
 - Web: React, TypeScript, JavaScript, jQuery
-- Backend: Java, Spring Boot, MyBatis, JPA
-- DB: MS-SQL, PostgreSQL
-- Infra/Operation: AWS (EC2, ALB, RDS, Lambda, EventBridge), Docker, Nginx, CloudWatch
+- Backend: Java, Spring Boot, MyBatis
+- Backend (sub): JPA
+- DB: MS SQL Server, PostgreSQL
+- Infra/Ops: AWS (EC2, ALB, RDS, Lambda, EventBridge), Docker, Nginx, CloudWatch
 
 ## Featured
 ### NewFeed
 RSS 기반 개인화 IT 뉴스 서비스
+- Role: 개인 프로젝트(기획/FE/BE/인프라 구성)
 - Front: React + TypeScript / Back: Spring Boot + PostgreSQL
 - Batch: EventBridge + Lambda, 중복 방지(Unique), 실패 로그 기록
 - Backend: [(repo 링크)](https://github.com/yongsang930/new-feed-backend) / Frontend: [(repo 링크)](https://github.com/yongsang930/new-feed-frontend)
