@@ -24,3 +24,10 @@ Baekjoon / Programmers 풀이
 
 ### Contact ✉️
 - Email: yongsang930@naver.com
+
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=flat&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazonaws&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=white)
