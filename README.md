@@ -1,7 +1,6 @@
-# 박용상 | Java Backend Developer (3y)
-
+## 박용상 | Java Backend Developer (3y)
 Spring Boot 기반 웹 시스템 개발/운영 경험.
-기능 구현뿐 아니라 배치/연계/로그 기반 이슈 추적까지 “운영 관점”으로 정리해 개발합니다.
+기능 구현뿐 아니라 배치/연계/로그 기반 이슈 추적까지 “운영 관점”으로 정리해 개발
 
 ## Core
 - Backend: Java, Spring Boot, MyBatis/JPA
@@ -10,8 +9,8 @@ Spring Boot 기반 웹 시스템 개발/운영 경험.
 
 ## Featured
 - **NewFeed**: RSS 기반 개인화 IT 뉴스 서비스
-  - Backend: (repo 링크)
-  - Frontend: (repo 링크)
+  - Backend: [(repo 링크)](https://github.com/yongsang930/new-feed-backend)
+  - Frontend: [(repo 링크)](https://github.com/yongsang930/new-feed-frontend)
   - Portfolio(PDF): https://www.newfeed.it.com/public_history.pdf
 
 - **Coding Test**: Baekjoon / Programmers 풀이
