@@ -10,7 +10,7 @@
 - Infra/Ops: AWS (EC2, ALB, RDS, Lambda, EventBridge), Docker, Nginx, CloudWatch
 
 ### Featured 📌
-### NewFeed 📰
+#### NewFeed 📰
 RSS 기반 개인화 IT 뉴스 서비스
 - Role: 개인 프로젝트(기획/FE/BE/인프라 구성) 🧩
 - Front: React + TypeScript / Back: Spring Boot + PostgreSQL
