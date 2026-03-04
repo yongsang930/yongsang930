@@ -1,4 +1,4 @@
-### 박용상 | React · Java Web Developer (3y)👨‍💻
+### React · Java Web Developer (3y)👨‍💻
 
 공공 SI 및 개인 프로젝트에서 React 화면 + Spring Boot API/DB 연계를 개발·운영
 
